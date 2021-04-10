@@ -1,8 +1,0 @@
-version: '3.5'
-
-services:
-  sap-anon-frontend:
-    image: docker-node
-    container_name: docker-node
-    ports:
-      - 8080:8080
